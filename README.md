@@ -10,7 +10,7 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/danielalejandrobasado-glitch/Yotsuba-MD-Premium/main/uploads/c8e88e93039fbfde.mp4" width="300" />
+      <img src="https://s7.ezgif.com/tmp/ezgif-7227f90bdcecf1ff.gif" width="300" />
       <br><b>Agility</b>
     </td>
     <td align="center">
