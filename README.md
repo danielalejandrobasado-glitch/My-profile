@@ -58,6 +58,6 @@
 
 ---
 
-> *"Si no te gusta tu destino, no lo aceptes. ¡Ten el valor de cambiarlo!"* – **Uzumaki Naruto** 🍥
+> *"No estoy aquí para jugar al fútbol con amigos, estoy aquí para convertirme en el mejor del mundo."* – **Yoichi Isagi** ⚽🧩
 
 </div>
