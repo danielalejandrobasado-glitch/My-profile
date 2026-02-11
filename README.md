@@ -3,26 +3,28 @@
 # ⚡ ¡Hola! Soy Daniel Alejandro 🇨🇴
 **`Node.js Developer | 16 años | Bot Maker`**
 
-¡Mucho gusto! Soy un apasionado por la tecnología. Me especializo en el ecosistema de **JavaScript**, creando y editando bots (especialmente para WhatsApp) y gestionando mis propias APIs.
-
 ---
 
-## 📊 PLAYER STATS (Anime Style)
-| Power | Level | Skill Bar |
-| :--- | :---: | :--- |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"> **JavaScript** | **85%** | ![JS](https://geps.dev/progress/85?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00) |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"> **Node.js** | **90%** | ![Node](https://geps.dev/progress/90?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00) |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="25"> **Bot Dev** | **95%** | ![Bots](https://geps.dev/progress/95?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00) |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25"> **API Rest** | **80%** | ![API](https://geps.dev/progress/80?dangerColor=ff0000&warningColor=ff0000&successColor=00ff00) |
+## 📊 PLAYER STATS: Daniel Alejandro
+Aquí puedes ver mis capacidades y proyectos en acción:
+
+<table>
+  <tr>
+    <td><video src="https://raw.githubusercontent.com/danielalejandrobasado-glitch/Yotsuba-MD-Premium/main/uploads/c8e88e93039fbfde.mp4" width="200" autoplay loop muted></video></td>
+    <td><video src="https://raw.githubusercontent.com/danielalejandrobasado-glitch/Yotsuba-MD-Premium/main/uploads/747f7feb4cf983c9.mp4" width="200" autoplay loop muted></video></td>
+  </tr>
+  <tr>
+    <td><video src="https://raw.githubusercontent.com/danielalejandrobasado-glitch/Yotsuba-MD-Premium/main/uploads/3682bef69c79109f.mp4" width="200" autoplay loop muted></video></td>
+    <td><video src="https://raw.githubusercontent.com/danielalejandrobasado-glitch/Yotsuba-MD-Premium/main/uploads/7130d4cb22564198.mp4" width="200" autoplay loop muted></video></td>
+  </tr>
+</table>
 
 ---
 
 ## 🔌 Central Intelligence Unit
-Mi infraestructura principal de datos y servicios:
-
 **🌐 API Official:** [rest.apicausas.xyz](https://rest.apicausas.xyz)  
 **🛠️ System Status:** ![Online](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)  
-**🚀 Tech Stack:** Node.js, Express & Glitch
+**🚀 Tech Stack:** Node.js & Express
 
 ---
 
@@ -35,8 +37,6 @@ Mi infraestructura principal de datos y servicios:
 ---
 
 ## 📞 Contacto Directo
-¿Quieres un bot o colaborar en un proyecto?
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Daniel_Alejandro-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573135180876?text=Hola%20Daniel,%20vi%20tu%20perfil%20en%20GitHub...)
 
 ---
