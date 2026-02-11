@@ -1,9 +1,9 @@
 # ⚡ ¡Hola! Soy Daniel Alejandro 🇨🇴
 
-¡Mucho gusto! Soy un apasionado por la tecnología de **16 años** viviendo en Colombia. Actualmente estoy sumergido en el mundo del código, aprendiendo cada día algo nuevo y dándole vida a mis propias ideas.
+¡Mucho gusto! Soy un programador de **16 años** viviendo en Colombia. Mi mundo gira en torno a los eventos, los comandos y la lógica de los servidores.
 
-### 🤖 Mi Especialidad
-Me especializo en el **desarrollo y edición de bots**, especialmente para **WhatsApp**. Me encanta desarmar código, entender cómo funcionan las APIs y automatizar tareas.
+### 🤖 Mi Especialidad: Bots & Automatización
+Me enfoco totalmente en el ecosistema de **JavaScript**. Mi fuerte es crear y editar bots (especialmente para WhatsApp) que sean rápidos y eficientes. ¡Si hay una API, puedo conectarla!
 
 ---
 
@@ -11,19 +11,19 @@ Me especializo en el **desarrollo y edición de bots**, especialmente para **Wha
 
 | Atributo | Nivel | Skill Bar |
 | :--- | :---: | :--- |
-| **Poder de Código (JS/Python)** | 65/100 | ![Progress](https://geps.dev/progress/65?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
-| **Bot Engineering** | 85/100 | ![Progress](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
-| **Creatividad / Edición** | 90/100 | ![Progress](https://geps.dev/progress/90?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
-| **API Management** | 80/100 | ![Progress](https://geps.dev/progress/80?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
+| **Poder de JavaScript** | 75/100 | ![Progress](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
+| **Node.js Runtime** | 80/100 | ![Progress](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
+| **Bot Engineering** | 90/100 | ![Progress](https://geps.dev/progress/90?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
+| **API Architecture** | 85/100 | ![Progress](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
 
 ---
 
 ## 🔌 My Main Core: Central Intelligence
-Actualmente mantengo mi propia infraestructura de datos:
+Mi proyecto principal donde centralizo mis servicios:
 
 * 🌐 **API Official:** [rest.apicausas.xyz](https://rest.apicausas.xyz)
 * 🛠️ **Status:** ![Active](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square&logo=statuspage)
-* 🏗️ **Type:** REST API Project
+* 🚀 **Stack:** Node.js & Express
 
 ---
 
@@ -35,6 +35,11 @@ Actualmente mantengo mi propia infraestructura de datos:
 
 ---
 
-> "Si no te gusta tu destino, no lo aceptes. ¡En su lugar, ten el valor de cambiarlo como quieras!" – Naruto Uzumaki 🍥
+## 📞 ¡Hablemos! (Contact Me)
+¿Tienes un proyecto en mente o necesitas ayuda con un bot? ¡Escríbeme!
 
-📫 **¿Quieres colaborar?** ¡Si tienes una idea para un bot o quieres usar mi API, escríbeme!
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Daniel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573135180876?text=Hola%20Daniel,%20vi%20tu%20perfil%20en%20GitHub...)
+
+---
+
+> "No importa qué tan lento vayas, siempre y cuando no te detengas." – Rock Lee 🍃
